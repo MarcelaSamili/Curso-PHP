@@ -1,0 +1,60 @@
+2021-06-01T21:45:31.996005Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-01T21:45:31.996005Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-01T21:45:31.996005Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-01T21:45:31.996005Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-01T21:45:32.169563Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 7196 ...
+2021-06-05T11:24:31.610951Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-05T11:24:31.610951Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-05T11:24:31.610951Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-05T11:24:31.610951Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-05T11:24:31.611952Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 10724 ...
+2021-06-09T18:44:08.052003Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-09T18:44:08.052003Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-09T18:44:08.052003Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-09T18:44:08.052003Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-09T18:44:08.052997Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 12240 ...
+2021-06-15T13:11:45.367045Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-15T13:11:45.367045Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-15T13:11:45.367045Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-15T13:11:45.367045Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-15T13:11:45.367045Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 8532 ...
+2021-06-15T19:07:18.869081Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-15T19:07:18.869081Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-15T19:07:18.869081Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-15T19:07:18.869081Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-15T19:07:18.870079Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 9088 ...
+2021-06-22T11:02:12.978826Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-22T11:02:12.978826Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-22T11:02:12.978826Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-22T11:02:12.978826Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-22T11:02:12.979824Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 6400 ...
+2021-06-22T17:34:05.962491Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-22T17:34:05.968044Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-22T17:34:05.968044Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-22T17:34:05.968044Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-22T17:34:05.969468Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 8968 ...
+2021-06-29T11:18:35.732758Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-29T11:18:35.732758Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-29T11:18:35.732758Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-29T11:18:35.732758Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-29T11:18:35.732758Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 4132 ...
+2021-06-29T16:00:04.228786Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-29T16:00:04.228786Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-06-29T16:00:04.228786Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-06-29T16:00:04.228786Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-06-29T16:00:04.229782Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 10392 ...
+2021-07-06T11:28:42.968105Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-07-06T11:28:42.968105Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-07-06T11:28:42.968105Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-07-06T11:28:42.968105Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-07-06T11:28:42.969103Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 10788 ...
+2021-07-06T16:57:32.384355Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-07-06T16:57:32.385352Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-07-06T16:57:32.385352Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-07-06T16:57:32.385352Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-07-06T16:57:32.385352Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 1996 ...
+2021-07-21T18:58:46.021310Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-07-21T18:58:46.021310Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-07-21T18:58:46.021310Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-07-21T18:58:46.021310Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-07-21T18:58:46.022307Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x210601184315\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 5268 ...
