@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-	<?php /* todo que estiver entre <?php e ?> é codigo me PHP */
+	<?php /* todo que estiver entre <?php e ?> é codigo em PHP */
 		echo "<h2>olá, Mundo!</h2>";
 	?>
 </body>
